@@ -21,6 +21,9 @@ I searched and compared the kov roms in [fbneo roms](https://www.planetemu.net/r
 ├── kov2103.zip
 ├── kov2104.zip
 ├── kov2106.zip
+├── kov2nl_300.zip
+├── kov2nl_301.zip
+├── kov2nl.zip
 ├── kov2p200.zip
 ├── kov2p202.zip
 ├── kov2p203.zip
@@ -30,6 +33,10 @@ I searched and compared the kov roms in [fbneo roms](https://www.planetemu.net/r
 ├── kov2pshpd.zip
 ├── kov2p.zip
 ├── kov2.zip
+├── kov3_100.zip
+├── kov3_101.zip
+├── kov3_102.zip
+├── kov3.zip
 ├── kovassga.zip
 ├── kovplus2020tx.zip
 ├── kovplusa.zip
@@ -60,6 +67,12 @@ I searched and compared the kov roms in [fbneo roms](https://www.planetemu.net/r
 ├── kov.zip
 └── pgm.zip
 ```
+
+### Updates
+
+- Add 3 roms of [Knights of Valour 2 New Legend](https://www.planetemu.net/rom/mame-roms/kov2nl), *mame only*.
+
+- Add 4 roms of [Knights of Valour 3](https://www.planetemu.net/rom/mame-roms/kov3), *mame only*. The [kov3](https://www.planetemu.net/rom/mame-roms/kov3) is larger then 100MB which over the github maximum single file size. So I did not upload here. If you want to run `kov3` game, you must download yourself.
 
 ### Notice
 
