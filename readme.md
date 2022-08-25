@@ -6,6 +6,8 @@ These roms are download from https://www.planetemu.net/roms/finalburn-neo-arcade
 
 I collect these roms just based on personal interests and hobbies. Please do not use for commercial purposes or other illegal purposes.
 
+I searched and compared the kov roms in [fbneo roms](https://www.planetemu.net/roms/finalburn-neo-arcade-games?page=K), [fba roms](https://www.planetemu.net/roms/fb-alpha?page=K), [mame roms](https://www.planetemu.net/roms/mame-roms?page=K) on https://www.planetemu.net/. There are 46 in fbneo, 31 in fba and 32 in mame. I just tested a few roms, all of the three emulator works.
+
 ### List
 
 ```shell
